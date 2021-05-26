@@ -8,7 +8,7 @@ from wct import *
 import torch
 import torch.nn as nn
 import torchvision
-from torchvision import transforms
+from torchvision import transforms 
 from torch.autograd import Variable
 import torchvision.transforms.functional as tf
 
